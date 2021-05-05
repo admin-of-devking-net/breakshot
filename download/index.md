@@ -1,8 +1,13 @@
-## PBA Breakshot Position
+Download Mobile Application
 
-[English](//breakshot.devking.net/download/), [한국어](//breakshot.devking.net/download/index.ko-kr.md)
+## Android
 
-### Download
+- https://play.google.com/store/apps/details?id=net.devking.breakshot
 
-- Android: https://play.google.com/store/apps/details?id=net.devking.breakshot
-- iOS: Coming Soon
+## iOS
+
+- Coming Soon
+
+## Contact Us
+
+- cs@devking.net

@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+3-Cushion billiards game break position generator based on PBA rules
 
-You can use the [editor on GitHub](https://github.com/admin-of-devking-net/breakshot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Description
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+When you start a 3-Cushion Billiards game based on PBA Rules, you need nine cards with numbers from 1 to 9 to determine break position.
 
-### Markdown
+But if you don't have cards, how can you determine the break position?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This program was developed to help you make break positions based on PBA rules fairy and easly.
 
-```markdown
-Syntax highlighted code block
+• When you start generating a new break position, nine cards are displayed.
+• A break position is determined by the user selecting three cards.
+• The results are displayed graphically to make it easier to place balls on the table.
 
-# Header 1
-## Header 2
-### Header 3
+Now anyone can enjoy a PBA rule-based 3-cushion billiard game in the club.
 
-- Bulleted
-- List
+## Download
 
-1. Numbered
-2. List
+- [Download](//breakshot.devking.net/download/)
 
-**Bold** and _Italic_ and `Code` text
+## Contact Us
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/admin-of-devking-net/breakshot/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- cs@devking.net
