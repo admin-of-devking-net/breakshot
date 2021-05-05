@@ -12,7 +12,8 @@ Now anyone can enjoy a PBA rule-based 3-cushion billiard game in the club.
 
 ## Pages
 
-• [Download](//breakshot.devking.net/download/)\
+• [Download](//breakshot.devking.net/download/)
+
 • [Privacy Policy](//breakshot.devking.net/privacy/)
 
 ## Contact Us
