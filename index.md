@@ -1,7 +1,3 @@
-3-Cushion billiards game break position generator based on PBA rules
-
-## Description
-
 When you start a 3-Cushion Billiards game based on PBA Rules, you need nine cards with numbers from 1 to 9 to determine break position.
 
 But if you don't have cards, how can you determine the break position?
@@ -16,8 +12,8 @@ Now anyone can enjoy a PBA rule-based 3-cushion billiard game in the club.
 
 ## Download
 
-- [Download](//breakshot.devking.net/download/)
+• [Download Page](//breakshot.devking.net/download/)
 
 ## Contact Us
 
-- cs@devking.net
+• [cs@devking.net](mailto://cs@devking.net)
