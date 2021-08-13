@@ -2,8 +2,14 @@
 
 ## Android
 
-• [https://play.google.com/store/apps/details?id=net.devking.breakshot](https://play.google.com/store/apps/details?id=net.devking.breakshot)
+[![play store](/img/play-store.png)](https://play.google.com/store/apps/details?id=net.devking.breakshot)
 
 ## iOS
 
-• [https://apps.apple.com/us/app/id1566112411](https://apps.apple.com/us/app/id1566112411)
+[![app store](/img/app-store.png)](https://apps.apple.com/us/app/id1566112411)
+
+## Screenshots
+
+<img src="/screenshot/en_android-s5_iphone-7/2.png" width="256">
+<img src="/screenshot/en_android-s5_iphone-7/3.png" width="256">
+<img src="/screenshot/en_android-s5_iphone-7/4.png" width="256">
